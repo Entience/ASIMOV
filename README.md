@@ -7,7 +7,7 @@ For more details please see our publication:
 
 To run ASIMOV and inspect the code, the multi-agent modeling program NetLogo must be acquired from https://ccl.northwestern.edu/netlogo/.
 
-#### Further Developments
+### Further Developments
 
 ASIMOV is being further developed with the addition of the Feature Association Matrix (FAM), which enables the formation of simple episodic memory, allowing the ASIMOV agent to create spatial maps of its environment that it can use to maximize the rewards that it obtains in foraging. The FAM is an abstraction of physiological circuits implicated in episodic memory, such as the auto- and hetero-associative circuits of the hippocampus.
 

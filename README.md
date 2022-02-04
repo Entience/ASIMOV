@@ -12,9 +12,11 @@ To run ASIMOV and inspect the code, the multi-agent modeling program NetLogo mus
 ASIMOV is being further developed with the addition of the Feature Association Matrix (FAM), which enables the formation of simple episodic memory, allowing the ASIMOV agent to create spatial maps of its environment that it can use to maximize the rewards that it obtains in foraging. The FAM is an abstraction of physiological circuits implicated in episodic memory, such as the auto- and hetero-associative circuits of the hippocampus.
 
 The FAM essentially chains together pair-wise associations and allows for memorization of overlapping spatio-temporal sequences.
+
 ![video-gif placeholder](https://github.com/KatyaGribkova/KatyaGribkova/blob/main/ASIMOV-FAM_spatiallearning1_lq.mp4?raw=true)
 
 Encoding of additional contexts in the FAM, such as distance and direction of an agent's travel from path integration, enables learning of more complex environments.
+
 ![video-gif placeholder](https://github.com/KatyaGribkova/KatyaGribkova/blob/main/ASIMOV-FAM_spatiallearning1_lq.mp4?raw=true)
 
 

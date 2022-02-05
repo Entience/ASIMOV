@@ -7,10 +7,12 @@ ASIMOV is being further developed with the addition of the Feature Association M
  **ASIMOV – short for “Algorithm of Selectivity by Incentive and Motivation for Optimized Valuation"*
  
 ------------------------------------------------------------------------------------------------------------
-For more details please see our publication:
+To run ASIMOV and inspect the code, the multi-agent modeling program NetLogo must be acquired from https://ccl.northwestern.edu/netlogo/.
+
+For more details please see our [website](https://publish.illinois.edu/slug-city/asimov/) and publication:
 > Gribkova, E. D., Catanho, M., & Gillette, R. (2020). Simple Aesthetic Sense and Addiction Emerge in Neural Relations of Cost-Benefit Decision in Foraging. _Scientific reports_, 10(1), 1-11. https://doi.org/10.1038/s41598-020-66465-0
 
-To run ASIMOV and inspect the code, the multi-agent modeling program NetLogo must be acquired from https://ccl.northwestern.edu/netlogo/.
+
 
 
 

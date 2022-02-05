@@ -4,7 +4,7 @@
 
 ASIMOV is being further developed with the addition of the Feature Association Matrix (FAM) to enable the formation of simple episodic memory. This allows the ASIMOV agent to create spatial maps of its environment to use to maximize the rewards that it obtains in foraging. The FAM is an abstraction of physiological circuits implicated in episodic memory, such as the auto- and hetero-associative circuits of the hippocampus.
 
- **ASIMOV – short for “Algorithm of Selectivity by Incentive and Motivation for Optimized Valuation*
+ **ASIMOV – short for “Algorithm of Selectivity by Incentive and Motivation for Optimized Valuation"*
  
 ------------------------------------------------------------------------------------------------------------
 For more details please see our publication:
